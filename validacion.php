@@ -7,5 +7,3 @@
 	echo "inicie sesion";
 	}
 	?>
-
-//validando usuario
